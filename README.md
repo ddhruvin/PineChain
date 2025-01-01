@@ -14,3 +14,4 @@ cosine similarity-based vector search, enabling high-accuracy retrieval of relev
 ![image](https://github.com/user-attachments/assets/141465eb-aa7f-4c1b-8753-0d2b3f1fec12)
 ![image](https://github.com/user-attachments/assets/9566c380-c168-4c67-9aa3-8564ffb045b9)
 
+As soon as query is given, retrieve_query function is called which does similarity search.
